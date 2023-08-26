@@ -1,5 +1,5 @@
 describe('customer service', () => {
-    describe('signIn', () => {
+    describe('sign in', () => {
         test('validate user input', () => {
 
         });
